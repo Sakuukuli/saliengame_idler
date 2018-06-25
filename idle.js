@@ -3,7 +3,7 @@
 // @namespace	https://github.com/ensingm2/saliengame_idler
 // @version		0.0.1
 // @author		ensingm2
-// @match		*://steamcommunity.com/saliengame/play
+// @match		http*://steamcommunity.com/saliengame/play/
 // @grant		none
 // ==/UserScript==
 
